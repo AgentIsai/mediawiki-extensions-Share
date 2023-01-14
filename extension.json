@@ -1,6 +1,6 @@
 {
 	"name": "Share",
-	"version": "1.1",
+	"version": "1.2",
 	"author": [
 		"[https://meta.miraheze.org/wiki/User:Agent_Isai Agent Isai]"
 	],
@@ -36,6 +36,11 @@
 			"public": true,
 			"value": false
 		},
+		"ShareTelegram": {
+			"description": "Enable 'Share to Telegram' link in the sidebar?",
+			"descriptionmsg": "share-telegram-desc",
+			"public": true,
+			"value": false
 		"ShareTumblr": {
 			"description": "Enable share to Tumblr link in the sidebar?",
 			"descriptionmsg": "share-tumblr-desc",
